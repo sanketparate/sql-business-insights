@@ -5,7 +5,7 @@ Schema has 46 tables.
 
 Important attributes:
 
-<br>customers </br>
+<br>customers 
 orders 
 order_items 
 products 
@@ -16,12 +16,12 @@ Events </br>
 ## Row Counts<br>
 
 Top 5 table names: </br>
-<br>| Table Name | Approx Row Count |</br>
+| Table Name | Approx Row Count |
 
-<br>| session_events  | 292903 | </br>
-| order_status_history | 158414 | </br>
-| experiment_assignments | 140670 | </br>
-| attribution_touches | 100000 | </br>
+<br>| session_events  | 292903 | 
+| order_status_history | 158414 | 
+| experiment_assignments | 140670 | 
+| attribution_touches | 100000 | 
 | sessions | 100000 | </br>
 
 
@@ -68,9 +68,9 @@ Channel:
 
 ## Empty Tables
 
-collections : 0
+<br>collections : 0
 collection_products : 0
-consents : 0
+consents : 0 </br>
 
 
 # New tables
