@@ -18,7 +18,7 @@ Events </br>
 Top 5 table names: </br>
 <br>| Table Name | Approx Row Count |</br>
 
-<br>| session_events  | 292903 | 
+<br>| session_events  | 292903 | </br>
 | order_status_history | 158414 | 
 | experiment_assignments | 140670 | 
 | attribution_touches | 100000 | 
