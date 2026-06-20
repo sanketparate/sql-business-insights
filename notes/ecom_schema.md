@@ -6,10 +6,10 @@ Schema has 46 tables.
 Important attributes:
 
 <br>customers 
-orders 
-order_items 
-products 
-sessions 
+orders <br>
+order_items <br>
+products <br>
+sessions <br>
 Events <br>
 
 
@@ -69,8 +69,8 @@ Channel:
 ## Empty Tables
 
 <br>collections : 0
-collection_products : 0
-consents : 0 
+collection_products : 0 <br>
+consents : 0 <br>
 
 
 # New tables
