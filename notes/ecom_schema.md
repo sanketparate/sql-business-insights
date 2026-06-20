@@ -6,7 +6,7 @@ Schema has 46 tables.
 Important attributes:
 
 <br>customers </br>
-<br>orders </br>
+orders </br>
 <br>order_items </br>
 <br>products </br>
 <br>sessions </br>
