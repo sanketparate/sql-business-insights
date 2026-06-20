@@ -20,7 +20,7 @@ Top 5 table names: </br>
 
 <br>| session_events  | 292903 | </br>
 | order_status_history | 158414 | </br>
-| experiment_assignments | 140670 | 
-| attribution_touches | 100000 | 
+| experiment_assignments | 140670 | </br>
+| attribution_touches | 100000 | </br>
 | sessions | 100000 | </br>
 
