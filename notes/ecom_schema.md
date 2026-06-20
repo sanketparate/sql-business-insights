@@ -3,7 +3,7 @@
 ## Findings:
 Schema has 46 tables.
 
-<b>Important attributes:</b>
+<b>Important attributes:</b> <br>
 customers <br>
 orders <br>
 order_items <br>
@@ -68,7 +68,7 @@ Channel:
 ## Empty Tables
 
 collections : 0 <br>
-<br>collection_products : 0 
+collection_products : 0 <br>
 consents : 0 <br>
 
 
