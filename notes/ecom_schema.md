@@ -17,7 +17,7 @@ Events </br>
 
 Top 5 table names: </br>
 | Table Name | Approx Row Count |
-
+|---------|---------|
 <br>| session_events  | 292903 | 
 | order_status_history | 158414 | 
 | experiment_assignments | 140670 | 
@@ -75,6 +75,7 @@ consents : 0 </br>
 
 # New tables
 <br>| Table Name | Row Count | Grain | Purpose |
+|---------|---------|
 | session_events | 292903   |One row per event|Tracks user actions during sessions |
 | notifications | 6856 | One row per notification sent | Tracks notification sends |
 |marketing_campaigns| 100 | One row per campaign | Marketing campaign master data |
