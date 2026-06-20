@@ -18,11 +18,11 @@ Events </br>
 Top 5 table names: </br>
 | Table Name | Approx Row Count |
 |---------|---------|
-<br>| session_events  | 292903 | 
+| session_events  | 292903 | 
 | order_status_history | 158414 | 
 | experiment_assignments | 140670 | 
 | attribution_touches | 100000 | 
-| sessions | 100000 | </br>
+| sessions | 100000 | 
 
 
 ## Foreign Key<br>
@@ -74,8 +74,8 @@ consents : 0 </br>
 
 
 # New tables
-<br>| Table Name | Row Count | Grain | Purpose |
-|---------|---------|
+| Table Name | Row Count | Grain | Purpose |
+|---------|---------|---------|---------|
 | session_events | 292903   |One row per event|Tracks user actions during sessions |
 | notifications | 6856 | One row per notification sent | Tracks notification sends |
 |marketing_campaigns| 100 | One row per campaign | Marketing campaign master data |
@@ -87,7 +87,7 @@ consents : 0 </br>
 |inventory_movements| 30207 | One row per inventory transaction |Stock movement history |
 |customer_segments| 10 | One row per segment | Segment definitions |
 |segment_memberships| 16461 |One row per customer-segment relationship | Maps customers to segments |
-|product_images| 7188 | One row per image | Stores product image metadata | </br>
+|product_images| 7188 | One row per image | Stores product image metadata | 
 
 
 
