@@ -10,7 +10,7 @@ orders
 order_items 
 products 
 sessions 
-Events </br>
+Events <br>
 
 
 ## Row Counts<br>
@@ -70,7 +70,7 @@ Channel:
 
 <br>collections : 0
 collection_products : 0
-consents : 0 </br>
+consents : 0 
 
 
 # New tables
